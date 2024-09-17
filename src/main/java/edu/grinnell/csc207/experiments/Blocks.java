@@ -4,6 +4,8 @@ import edu.grinnell.csc207.blocks.AsciiBlock;
 import edu.grinnell.csc207.blocks.Boxed;
 // import edu.grinnell.csc207.blocks.HorizontalCompositionCenter;
 // import edu.grinnell.csc207.blocks.HorizontalCompositionTop;
+import edu.grinnell.csc207.blocks.Line;
+import edu.grinnell.csc207.blocks.Rectangle;
 // import edu.grinnell.csc207.blocks.Surrounded;
 // import edu.grinnell.csc207.blocks.VerticalCompositionLeft;
 

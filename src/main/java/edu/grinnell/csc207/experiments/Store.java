@@ -2,7 +2,6 @@ package edu.grinnell.csc207.experiments;
 
 import edu.grinnell.csc207.store.Item;
 import edu.grinnell.csc207.store.BulkItem;
-import edu.grinnell.csc207.store.Multiple;
 import edu.grinnell.csc207.store.Purchase;
 import edu.grinnell.csc207.store.StoreUtils;
 
