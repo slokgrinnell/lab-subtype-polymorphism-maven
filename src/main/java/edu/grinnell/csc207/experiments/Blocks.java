@@ -55,6 +55,9 @@ public class Blocks {
     AsciiBlock b4 = new Boxed(b2);
     AsciiBlock.print(pen, b4);
 
+    AsciiBlock b5 = new Boxed(b3);      // Box b3 to create b5
+    AsciiBlock.print(pen, b5);          // Print the boxed block
+
     pen.close();
   } // main(String[])
 } // class Blocks
